@@ -1,4 +1,4 @@
-.chamda__aplicativo {
+.chamada__aplicativo {
     color: #fff;
     text-align: center;
     background-color: #f76148;
@@ -27,7 +27,7 @@
     font-weight: 600;
 }
 
-.chamda__aplicativo__button--wrapper {
+.chamada__aplicativo__button--wrapper {
     display: flex;
     justify-content: space-evenly;
 }
@@ -67,7 +67,7 @@
 }
 
 @media (min-width: 768px) {
-    .chamda__aplicativo {
+    .chamada__aplicativo {
         background-image: url(../img/mockup-app.png);
         background-size: 12rem;
         background-position: left 20% center;
@@ -104,7 +104,7 @@
 }
 
 @media (min-width: 1200px) {
-    .chamda__aplicativo {
+    .chamada__aplicativo {
         grid-template-columns: 1fr 12rem 12rem;
     }
 
